@@ -33,7 +33,7 @@ def wpm_test(stdscr):
         if input in ("KEY_BACKSPACE", "\b", "\x7f"):
             if len(current_text) > 0:
                 current_text.pop()
-        else:
+        elif len(current_text) < len(target_text):
             current_text.append(input)
 
 def main(stdscr):
