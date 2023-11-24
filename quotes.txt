@@ -1,0 +1,52 @@
+Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.
+Premature optimization is the root of all evil (or at least most of it) in programming.
+Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.
+What Paul does, and does very well, is to take ideas and concepts that are beautiful in the abstract, and brings them down to a real world level. That's a rare talent to find in writing these days.
+Since programmers create programs out of nothing, imagination is our only limitation. Thus, in the world of programming, the hero is the one who has great vision. Paul Graham is one of our contemporary heroes. He has the ability to embrace the vision, and to express it plainly. His works are my favorites, especially the ones describing language design.
+He explains secrets of programming, languages, and human nature that can only be learned from the hacker experience. This book shows you his great vision, and tells you the truth about the nature of hacking.
+To follow the path: look to the master, follow the master, walk with the master, see through the master, become the master.
+No problem should ever have to be solved twice.
+Attitude is no substitute for competence.
+It is said that the real winner is the one who lives in today but able to see tomorrow.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+A year spent in artificial intelligence is enough to make one believe in God.
+Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.
+Within a computer natural language is unnatural.
+You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+A little learning is a dangerous thing.
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary.
+Students should be evaluated on how well they can achieve the goals they strived to achieve within a realistic context. Students need to learn to do things, not know things.
+We remember what we learn when we care about performing better and when we believe that what we have been asked to do is representative of reality.
+There really is no learning without doing.
+We really have to get over the idea that some stuff is just worth knowing even if you never do anything with it. Human memories happily erase stuff that has no purpose, so why try to fill up children's heads with such stuff?
+The only problems we can really solve in a satisfactory manner are those that finally admit a nicely factored solution.
+The best way to learn to live with our limitations is to know them.
+This challenge, viz. the confrontation with the programming task, is so unique that this novel experience can teach us a lot about ourselves. It should deepen our understanding of the processes of design and creation, it should give us better control over the task of organizing our thoughts. If it did not do so, to my taste we should no deserve the computer at all!  It has allready taught us a few lessons, and the one I have chosen to stress in this talk is the following. We shall do a much better programming job, provided that we approach the task with a full appreciation of its tremenduous difficulty, provided that we stick to modest and elegant programming languages, provided that we respect the intrinsic limitations of the human mind and approach the task as Very Humble Programmers.
+We now come to the decisive step of mathematical abstraction: we forget about what the symbols stand for. The mathematician need not be idle; there are many operations which he may carry out with these symbols, without ever having to look at the things they stand for.
+An expert is, according to my working definition "someone who doesn't need to look up answers to easy questions".
+The programmer must seek both perfection of part and adequacy of collection.
+Thus, programs must be written for people to read, and only incidentally for machines to execute.
+We control complexity by building abstractions that hide details when appropriate. We control complexity by establishing conventional interfaces that enable us to construct systems by combining standard, well-understood pieces in a mix and match way. We control complexity by establishing new languages for describing a design, each of which emphasizes particular aspects of the design and deemphasizes others.
+Lisp programmers know the value of everything but the cost of nothing.
+An interpreter raises the machine to the level of the user program; a compiler lowers the user program to the level of the machine language.
+Everything should be made as simple as possible, but no simpler.
+The great dividing line between success and failure can be expressed in five words: "I did not have time."
+When your enemy is making a very serious mistake, don't be impolite and disturb him.
+A charlatan makes obscure what is clear; a thinker makes clear what is obscure.
+There are two ways of constructing a software design; one way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+And if you go too far up, abstraction-wise, you run out of oxygen. Sometimes smart thinkers just don't know when to stop, and they create these absurd, all-encompassing, high-level pictures of the universe that are all good and fine, but don't actually mean anything at all.
+The three chief virtues of a programmer are: Laziness, Impatience and Hubris.
+All non-trivial abstractions, to some degree, are leaky.
+XML wasn't designed to be edited by humans on a regular basis.
+Premature abstraction is an equally grevious sin as premature optimization.
+You can have premature generalization as well as premature optimization.
+He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
+A language that doesn't affect the way you think about programming, is not worth knowing.
+Men never do evil so completely and cheerfully as when they do it from religious conviction.
+Everybody makes their own fun. If you don't make it yourself, it ain't fun -- it's entertainment.
+Sometimes a man with too broad a perspective reveals himself as having no real perspective at all. A man who tries too hard to see every side may be a man who is trying to avoid choosing any side. A man who tries too hard to seek a deeper truth may be trying to hide from the truth he already knows.  That is not a sign of intellectual sophistication and "great thinking". It is a demonstration of moral degeneracy and cowardice.
+In God I trust; I will not be afraid. What can mortal man do to me?
+The reason to do animation is caricature. Good caricature picks out the essense of the statement and removes everything else. It's not simply about reproducing reality; It's about bumping it up.
